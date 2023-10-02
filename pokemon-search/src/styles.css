@@ -1,0 +1,41 @@
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    background-color: #2f5a7e;
+    padding: 10px;
+  }
+  .grid-item {
+    background-color: rgba(46, 211, 54, 0.8);
+    border: 1px solid #3586ff;
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+  }
+
+  .font-bold{
+    font-size: medium;
+    font-weight: 200;
+  }
+
+ .rounded-circle {
+  background-color: #3586ff;
+ }
+
+ .ul-list {
+  background-color: #ff0606;
+  list-style: none;
+ }
+ .card-body {
+  background-color: rgb(97, 33, 17);
+  color: gold;
+  font-family: cursive;
+ }
+ #root {
+  background-color: rgb(7, 7, 24);
+ }
+ .form-control {
+  color: black;
+  margin-bottom: 1rem;
+ }
+
+ 
